@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moha_jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moha_jpeg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-el-domyaty-555004364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Mohamed El Domyaty" height="30" width="40" /></a>
 <a href="https://www.behance.net/madebymoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="madebymoha" height="30" width="40" /></a>
 </p>
 
