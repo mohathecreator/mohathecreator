@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohathecreator&label=Profile%20views&color=0e75b6&style=flat" alt="mohathecreator" /> </p>
 
-<p align="left"> <a href="https://twitter.com/moha_jpeg" target="blank"><img src="https://img.shields.io/twitter/follow/moha_jpeg?logo=twitter&style=for-the-badge" alt="moha_jpeg" /></a> </p>
+- 🔭 I’m currently working on [Audio-mood-classifier](https://github.com/mohathecreator/audio-mood-classifier)
 
-- 🔭 I’m currently working on [Breast Cancer Predicter](https://github.com/mohathecreator/Breast-Cancer-Predicter)
-
-- 🌱 I’m currently learning **SQL, Machine Learning and AI**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - ⚡ Fun fact **I play Basketball and design in my free time**
 
